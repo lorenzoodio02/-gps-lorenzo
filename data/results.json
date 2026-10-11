@@ -1,1 +1,12 @@
-{"checked_at":null,"documents":[],"sources":[{"label":"Ricerca GPS — Ambito Territoriale Bari","url":"https://www.uspbari.it/usp/?s=GPS","status":"Da controllare","note":"Punto di partenza, non equivale a un censimento completo."}]}
+{
+  "checked_at": "2026-10-11T14:44:43+00:00",
+  "documents": [],
+  "sources": [
+    {
+      "label": "Ricerca GPS — Ambito Territoriale Bari",
+      "url": "https://www.uspbari.it/usp/?s=GPS",
+      "status": "Pagina raggiunta",
+      "note": "Elenco non necessariamente esaustivo."
+    }
+  ]
+}
